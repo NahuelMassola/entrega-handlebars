@@ -1,0 +1,32 @@
+[
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 10,
+    "status": true,
+    "id": "1"
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "price": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 10,
+    "status": true,
+    "id": "O"
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "price": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 10,
+    "status": true,
+    "id": "G"
+  }
+]
